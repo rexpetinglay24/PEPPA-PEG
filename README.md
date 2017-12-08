@@ -23,5 +23,8 @@ Input the name of the Folder then click OK
 double click the folder Icon
 
 # AUTHORS
-[FB.COM/CINZZ.AQOH] REX PETINGLAY JR
-EROA 
+EROA MARK VINCENT
+GICOS JOVAN
+PACANTARA HAZEL
+PANES PRINCESS
+PETINGLAY JR, REX A.
